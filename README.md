@@ -36,7 +36,7 @@ REPLICATE_API_TOKEN=<Your Replicate LlamaV2 Key>
 4. Run the Streamlit app
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Usage
