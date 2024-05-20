@@ -57,4 +57,4 @@ This project is licensed under the terms of the MIT license. See the [LICENSE](L
 
 ## Sponsors
 
-✨ Learn to build projects like this one (early bird discount): [BuildFast Course](https://www.buildfastcourse.com/)
+✨ Find profitable ideas faster: [Exploding Insights](https://explodinginsights.com/)
